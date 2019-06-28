@@ -1,0 +1,101 @@
+Technologies Required for Full Stack Developer
+---------------------------------------------
+UI Technologies
+----------------
+HTML -> for webpage structure
+CSS -> for styles
+JavaScript -> for dynamic DOM
+Jquery -> a JS Library for AJAX , Plugins
+AJAX -> for data updates without refresh from server
+Bootstrap -> css library
+
+Server Side
+------------
+Node JS -> server side JS platform 
+Express JS -> 3rd module of Node JS
+
+Data Bases
+-----------
+Mongo DB
+MySql
+
+Unit Testing
+------------
+Mocha , Chai
+JEST Framework
+Jasmine , Protractor , Karma
+
+Client side framworks
+---------------------
+Angular JS / Angular  / React JS / Vue JS
+
+Code Repository
+--------------
+github , CVS  , SVN , IBM Clear Case
+
+
+Editors
+--------
+Sublime Text
+Atom Editor
+Brackets Editor
+Visual Studio Code
+WebStorm IDE
+Adobe Dream Weaver
+
+Live Reload
+------------
+live-server -> for client side
+nodemon -> for node js server
+
+Development Methodology (SDLC)
+---------------------
+Agile Methodology with Scrum model
+
+
+Project Updates
+----------------
+Daily Stand Up Meeting
+JIRA Updates
+
+Charts & Graphs
+----------------
+D3 JS / c3 JS
+
+Extra Activities
+-----------------
+1) Free code camp certified
+2) own personal website
+3) Github Profile
+4) Youtube Channel
+5) Contribute to Open Source
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
